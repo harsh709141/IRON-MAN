@@ -1,0 +1,3 @@
+.hover-button { padding:10px 16px; margin:8px; border:1px solid 
+#999; background:#eee; cursor:pointer; }
+.hover-button:hover { background:red; color:#fff; }
